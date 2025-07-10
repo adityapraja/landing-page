@@ -142,3 +142,23 @@ ul{
 }
 
 
+.signup-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.signup-center{
+    width: 1000px;
+    height: 150px;
+    color: #f9f8fa;
+    background-color: #3882f6;
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+
+}
