@@ -114,3 +114,31 @@ ul{
 .box-text{
  text-align: center;
 }
+
+/*Quote Section */
+
+.quote-section{
+    display: flex;
+    background-color: #e5e7eb;
+    justify-content: center;
+}
+
+.quote-center{
+    width: 800px;
+    padding: 50px;
+
+}
+
+.quote{
+    color: #1f2937;
+    font-size: 36px;
+    font-style:italic;
+    font-weight: lighter;
+}
+
+.author{
+    font-size: 24px;
+    font-weight: 900;
+    text-align: right;
+
+}
