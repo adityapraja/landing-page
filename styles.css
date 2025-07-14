@@ -63,10 +63,10 @@ ul{
     border: 0;
     border-radius: 4px;
     font-weight: bold;
-    font-size: 12px;
+    font-size: 16px;
     color: #f9faf8;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
 
 }
 
@@ -190,4 +190,15 @@ ul{
     padding-right: 20px;
     padding-top: 4px;
     padding-bottom: 4px;
+}
+
+footer{
+    color: #f9faf8;
+    background-color: #1f2937;
+    text-align: center;
+}
+
+.footer-text{
+    padding: 40px;
+    margin-bottom: 0;
 }
